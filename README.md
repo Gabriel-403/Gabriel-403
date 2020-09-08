@@ -1,8 +1,8 @@
 ## I feel sleepy，please don't let me 966！
 
-**This is chaosprogrammer, an undergraduate from [S.E.M.YanTai University](https://econ.ytu.edu.cn/).**
+**This is Tenma Gabriel White, an undergraduate from [S.E.M.YanTai University](https://econ.ytu.edu.cn/).**
 
-![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=chaosprogrammer&show_icons=true&title_color=3ddbcf&icon_color=90da21&text_color=255085&bg_color=fff)
+![fdciabdul github stats](https://github-readme-stats.vercel.app/api?username=Gabriel-403&show_icons=true&title_color=3ddbcf&icon_color=90da21&text_color=255085&bg_color=fff)
 
 
 
@@ -14,7 +14,7 @@
 
 - 👯  I'm still working hard to learn new stuffs.
 - ☀ Tencent ready programmer！
-- ⚡ To learn more about me, you may visit [my github page](https://github.com/chaosprogrammer).
+- ⚡ To learn more about me, you may visit [my github page](https://github.com/Gabriel-403).
 - 📫 Feel free to contact me via: 1499015923 at QQ
 
 
